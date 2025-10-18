@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "name": "Knuckles Doe",
+  "short_name": "Knuckles Doe",
+  "description": "개인 학습과 기록을 위한 익명의 블로그입니다.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",
