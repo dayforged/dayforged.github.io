@@ -1,5 +1,24 @@
+# /robots.txt
+
+# Google, Naver 등 일반 검색 엔진 허용
 User-agent: *
+Allow: /
 
-Disallow: /norobots/
+# 알려진 AI 학습 봇 차단
+User-agent: GPTBot
+Disallow: /
 
-Sitemap: https://dayforged.github.io//sitemap.xml
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
