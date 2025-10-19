@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://dayforged.github.io//posts/text-and-typography/</loc>
-<lastmod>2019-08-08T12:33:00+09:00</lastmod>
-</url>
-<url>
 <loc>https://dayforged.github.io//posts/write-a-new-post/</loc>
 <lastmod>2019-08-08T15:10:00+09:00</lastmod>
 </url>
@@ -22,25 +18,22 @@
 </url>
 <url>
 <loc>https://dayforged.github.io//categories/</loc>
-<lastmod>2025-10-19T18:33:43+09:00</lastmod>
+<lastmod>2025-10-19T18:46:45+09:00</lastmod>
 </url>
 <url>
 <loc>https://dayforged.github.io//tags/</loc>
-<lastmod>2025-10-19T18:33:43+09:00</lastmod>
+<lastmod>2025-10-19T18:46:45+09:00</lastmod>
 </url>
 <url>
 <loc>https://dayforged.github.io//archives/</loc>
-<lastmod>2025-10-19T18:33:43+09:00</lastmod>
+<lastmod>2025-10-19T18:46:45+09:00</lastmod>
 </url>
 <url>
 <loc>https://dayforged.github.io//about/</loc>
-<lastmod>2025-10-19T18:33:43+09:00</lastmod>
+<lastmod>2025-10-19T18:46:45+09:00</lastmod>
 </url>
 <url>
 <loc>https://dayforged.github.io//</loc>
-</url>
-<url>
-<loc>https://dayforged.github.io//tags/typography/</loc>
 </url>
 <url>
 <loc>https://dayforged.github.io//tags/writing/</loc>
@@ -53,9 +46,6 @@
 </url>
 <url>
 <loc>https://dayforged.github.io//categories/blogging/</loc>
-</url>
-<url>
-<loc>https://dayforged.github.io//categories/demo/</loc>
 </url>
 <url>
 <loc>https://dayforged.github.io//categories/tutorial/</loc>
