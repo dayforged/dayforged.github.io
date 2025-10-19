@@ -1,0 +1,11 @@
+LICENSE        — applies to theme/third-party code (MIT, from chirpy).
+LICENSE-CONTENT— applies to original posts and media in this repo.
+Unless otherwise noted, site content is not licensed for AI/model training.
+
+이 저장소의 라이선스 안내
+
+- LICENSE — Chirpy 테마 및 기타 서드파티 코드에 적용됩니다. (MIT)
+- LICENSE-CONTENT — 본 저장소에서 창작된 원본 게시물과 미디어(예: /_posts, /assets/img 등)에 적용됩니다.
+
+별도 표기가 없는 한, 본 사이트의 콘텐츠는 AI/모델 학습(훈련·튜닝·평가) 및 그 목적의 자동 수집(스크래핑/크롤링)에 사용할 수 없습니다.
+자세한 내용은 LICENSE-CONTENT를 확인하세요.
