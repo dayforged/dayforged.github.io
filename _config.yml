@@ -10,8 +10,13 @@ description: 개인 학습과 기록을 위한 익명의 블로그입니다.
 url: "https://dayforged.github.io/"
 
 github:
-  username: dayforged # change to your GitHub username
+  username: dayforged 
 
+author:
+  name: "너클즈_Knuckles"
+  avatar: "https://dayforged.github.io/assets/knuckles.jpg"
+  social_preview_image: "https://dayforged.github.io/assets/knuckles.jpg"
+  
 twitter:
   username: twitter_username # change to your Twitter username
 
@@ -71,10 +76,6 @@ theme_mode: # [light | dark]
 #
 # e.g. 'https://cdn.com'
 cdn: "https://chirpy-img.netlify.app"
-
-# the avatar on sidebar, support local or CORS resources
-avatar: "https://dayforged.github.io/assets/knuckles.jpg"
-social_preview_image: "https://dayforged.github.io/assets/knuckles.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
