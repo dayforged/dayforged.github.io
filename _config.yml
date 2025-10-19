@@ -84,36 +84,26 @@ toc: true
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: "giscus"
+  
   # Giscus
   giscus:
-    repo: "dayforged/dayforged.github.io" #  <-- 이 값
-    repo_id: "R_kgDOQE0HBQ"                #  <-- 이 값
-    category: "General"                   #  <-- 이 값
-    category_id: "DIC_kwDOQE0HBc4Cw0dx"    #  <-- 이 값
+    repo: "dayforged/dayforged.github.io" 
+    repo_id: "R_kgDOQE0HBQ"                
+    category: "General"                   
+    category_id: "DIC_kwDOQE0HBc4Cw0dx"    
     mapping: "pathname"
     strict: "0"
     reactions_enabled: "1"
     emit_metadata: "0"
     input_position: "bottom"
-    theme: "preferred_color_scheme" # (스크립트의 data-theme 값)
+    theme: "preferred_color_scheme"
     lang: "ko"
     
-  # utterances settings › https://utteranc.es/
+  # utterances settings › https://utteranc.es/ (사용 안 함)
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
-  # Giscus options › https://giscus.app
-  giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
-
+    repo: 
+    issue_term:
+    
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
