@@ -83,10 +83,21 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
-  # The provider options are as follows:
-  disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  provider: "giscus"
+  # Giscus
+  giscus:
+    repo: "dayforged/dayforged.github.io" #  <-- 이 값
+    repo_id: "R_kgDOQE0HBQ"                #  <-- 이 값
+    category: "General"                   #  <-- 이 값
+    category_id: "DIC_kwDOQE0HBc4Cw0dx"    #  <-- 이 값
+    mapping: "pathname"
+    strict: "0"
+    reactions_enabled: "1"
+    emit_metadata: "0"
+    input_position: "bottom"
+    theme: "preferred_color_scheme" # (스크립트의 data-theme 값)
+    lang: "ko"
+    
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
