@@ -14,8 +14,9 @@ github:
 
 author:
   name: "너클즈_Knuckles"
-  avatar: "https://dayforged.github.io/assets/knuckles.jpg"
-  social_preview_image: "https://dayforged.github.io/assets/knuckles.jpg"
+  
+avatar: "https://dayforged.github.io/assets/knuckles.jpg"
+social_preview_image: "https://dayforged.github.io/assets/knuckles.jpg"
   
 twitter:
   username: twitter_username # change to your Twitter username
